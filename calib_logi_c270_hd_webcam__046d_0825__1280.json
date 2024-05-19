@@ -1,0 +1,35 @@
+{
+    "camera": "Logi C270 HD WebCam (046d:0825)",
+    "platform": "Windows NT 10.0; Win64; x64",
+    "avg_reprojection_error": 1.2004071042636322,
+    "camera_matrix": [
+        [
+            1450.5532386128232,
+            0,
+            662.6856180303788
+        ],
+        [
+            0,
+            1447.5174844713965,
+            310.1945772625487
+        ],
+        [
+            0,
+            0,
+            1
+        ]
+    ],
+    "distortion_coefficients": [
+        0.154756593908351,
+        -1.1030342056281155,
+        -0.007649558434921426,
+        0.0110835553346491,
+        2.540956166820038
+    ],
+    "distortion_model": "rectilinear",
+    "img_size": [
+        1280,
+        720
+    ],
+    "calibration_time": "Sat, 02 Mar 2024 16:31:08 GMT"
+}
